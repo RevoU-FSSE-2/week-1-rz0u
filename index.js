@@ -1,1 +1,3 @@
-console.log("Greetings Human!")
+function myScript() {
+    alert("Greetings Human!")
+}
