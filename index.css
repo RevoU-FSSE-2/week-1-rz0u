@@ -4,12 +4,27 @@ body {
     background-color: #04112d ;
 }
 
-a {
-    color:#d382bf ;
-    font-size: 16px;
+nav {
+    background-color: #c851ab;
 }
 
+.navbar a { 
+    float: left;
+    color: #04112d;
+    background-color: #c851ab;
+    text-align: center;
+    padding: 14px 19px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navbar a:hover {
+    background-color: #04112d;
+    color: #c851ab;
+  }
+
 h1 {
+    float: inline-start;
     color:#c851ab ;
 }
 
