@@ -1,4 +1,4 @@
-# WEEKLY ASSIGNMENT 1
+# WEEKLY INTERMEDIATE ASSIGNMENT 1
 
 Greetings World, for this week assignment we (Revou FSSE Students) are tasked with making a simple website that requires **HTML**, **CSS**, and also **Java Script**
 
