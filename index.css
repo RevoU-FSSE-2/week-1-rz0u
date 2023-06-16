@@ -6,7 +6,7 @@ body {
 
 nav {
     background-color: #c851ab;
-    padding: 16px;
+    padding: 1.2em;
 }
 
 .navbar a { 
@@ -14,9 +14,9 @@ nav {
     color: #04112d;
     background-color: #c851ab;
     text-align: center;
-    padding: 14px 19px;
+    padding: 1em 1.2em;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.1em;
   }
 
   .navbar a:hover {
@@ -31,30 +31,31 @@ h1 {
 
 p {
     color:#c851ab ;
-    font-size: 20px;
+    font-size: 1.1em;
 }
 
 .my-photo {
-    width: 250px;
+    width: 15em;
     border-radius: 15%;
+    border-style: none;
 }
 
 button {
     color:#04112d ;
     background-color:#d382bf ;
-    border-radius: 12px ;
+    border-radius: 1.1em ;
     cursor: grab;
-    font-size: 16px ;
+    font-size: 1.1em ;
     font-family: 'Source Code Pro', monospace;
 }
 
 #footer {
-    position: fixed;
+    position: fixed ;
     left: 0;
     bottom: 0;
     width: 100%;
-    padding: 12px;
+    padding: 1em;
     background-color: #c851ab;
     color: #04112d;
-    font-size: 12px ;
+    font-size: 0.9em ;
 }
